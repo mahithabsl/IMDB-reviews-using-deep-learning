@@ -5,3 +5,5 @@
  1) Sentiment analysis using the deep learning models like CNN and dense layers 
 
  2) Sentiment analysis using the Tensorflow hub 
+
+ 3) Sentiment analysis using the DL Bilstm model
